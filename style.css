@@ -55,6 +55,12 @@ html, body {
     color: white;
   }
 
+  button.cancel {
+    background: white;
+    border: 1px solid #ddd;
+    color: royalblue;
+  }
+
   button {
     cursor: pointer;
     padding: 8px 16px;
